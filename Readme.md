@@ -27,7 +27,18 @@ The motivation behind this project is to reunite lost pets with their owners, ba
 
 ## Installation
 
-- **Clone the repository:**
+### Steps
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/omarghazy56/Pet-Finder.git
    cd Pet-Finder
+
+### To make server
+1. Install [Node.js](https://nodejs.org/en/download).
+2. Install localtunnel globally:
+   ```cmd
+   npm install -g localtunnel
+2. To start the server, use the following command:
+   ```cmd
+   lt --port 8000 --subdomain your-custom-subdomain
+   eg. lt --port 8000 --subdomain abcip
