@@ -4,7 +4,7 @@
 1. [Project Overview](#project-overview)
 2. [Motivation](#Motivation)
 3. [Features](#features)
-4. [Technologies Used](#TechnologiesUsed)
+4. [Technologies Used](#Technologies-Used)
 5. [Installation](#installation)
    
 
