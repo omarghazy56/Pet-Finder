@@ -1,11 +1,11 @@
 # Find-My-Pet
 
 ## Table of Contents
-1. [Project Overview](#project-overview)
+1. [Project Overview](#overview)
 2. [Motivation](#Motivation)
-3. [Features](#features)
+3. [Features](#Features)
 4. [Technologies Used](#Technologies-Used)
-5. [Installation](#installation)
+5. [Installation](#Installation)
    
 
 ## Overview
