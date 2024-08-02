@@ -1,0 +1,8 @@
+math
+PIL
+transformers
+dotenv
+torch
+io
+base64
+qdrant-client
