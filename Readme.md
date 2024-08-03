@@ -1,4 +1,4 @@
-# Find-My-Pet
+# Pet Finder
 
 ## Table of Contents
 1. [Project Overview](#overview)
