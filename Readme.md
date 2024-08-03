@@ -10,7 +10,7 @@
    
 
 ## Overview
-"Find My Pet" is an AI-powered application designed to help reunite lost pets with their owners. When someone finds a lost pet, they can take a picture and upload it to our database. If a pet owner loses their pet, they can upload a previous picture of their pet. The system then matches the uploaded image with the images in the database to find potential matches.
+"Pet Finder" is an AI-powered application designed to help reunite lost pets with their owners. When someone finds a lost pet, they can take a picture and upload it to our database. If a pet owner loses their pet, they can upload a previous picture of their pet. The system then matches the uploaded image with the images in the database to find potential matches.
 
 ### Motivation
 The motivation behind this project is to reunite lost pets with their owners, based on interviews and survey made with pet owners.
